@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "crypto-price-369400",
+  "private_key_id": "b2f32852ff4c99c4b925798857cb84cc4266b5ad",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDG4puRH5V93Epg\nChNhtiA/wSJ4rBvXsP1aexacO8A074B32o0X+G89gZydq6eAveMS5jO6vyMIMLKl\n9TNJh74B6mMH4HyLh+yr9KAJd+DNFt/8tRLq3e+PsCsJbK5HOGOLsujmp6z3cDyJ\nr6scUXKD4+6QzVExctOuw73ym+7rAj/WwIXSm6G8eG7GqDGCRD+bDD/A745kcpBl\n+eY/e/FCqTeCLbelgpOdUhkpvvJu087Ecvbp3s15pNhm3YMDFndjYOy1jT5DQqna\nouN2ke7kV2sokZahWmt9CaiUcBhZPte5t9EvrgxI80HLUwvT8nf5B3rrm73VHdEb\n5OjsGw3fAgMBAAECggEAFOAuUhJNn7Nivyfvlt8GDYsZMi9mkMJMJZYr7mQ7LZNC\nGdJ/4tc53evf45Dj+Rh1YEN3hI+RfseVyOOu6XXtFMhkcqw2hnLS/c2kirnhh8Vx\n51WeUbbP8XYdXlThCiq6ECzMU4GgHyzRveYJgORvr7ZaESrr7dPOslZrdq61akdX\noYeFuAJ6bXzLf2c4inBEYM6BdjmLlQuGWQpDhri8rsVNqg5FUTHBXmqjL4XpXfv8\n8FOe3S53ekFTIMS3eNwrrl+tkSxv0sw3tGIvDKrxXxBE7cXM80J5M5LXpbXTPJiZ\nvBqQLDep1nXMSN4y0nWpCJMgqDW/HgfYmaz9p/gOYQKBgQD1OZB9YU92O8/7IvXh\nFA75cNIAd1QppIZk1ZVTwybXFCmxEXSoXsYbmch8e1+HPGPSDVfb3lI30gEeMtdy\nqdLolvsJg8aCIfiiYyFhWaegDifcshDMSkauliRZx+yavvcnwaY2GaP8Nmij4s0H\nA50/PIjHU/roAyhRCFcECD8qsQKBgQDPn8l1wnSbJeIPhkUqX13YTeu21Mot/CHI\nLgL5YohoBBLqm+T1iyveYpVshPL6qeIqLg980MZawRoOThRrd085HCLBHH1F7WkM\nK7QkMERnP9CCqg43c5Fbi+d1QiG6xJlmCM3m5o83CBkCgxhu2eqVR9Ig15XYP1Wa\nOAo3UnjFjwKBgQClxKoF95gNptUrQTDRXAvbVwa+xeug0tT+qNru6ocA8WJVjiU8\nBAULd2NtssCa3JnlzptLx/fwQAf9cATwQBiQni9I+UlhgrFepIBWHJMRwT/1EnIE\nh1lMf7ZG8rzgxqKwv1kqTR7rSaRm1NQgH7NWogccJ4r+99NzI54e3axFoQKBgErg\nclQwu8LUJ7G3l6wPVpXSjCaUmRF6c2hxB4uOuGjixzuq2yied0StQvwu+j3iFHln\nwRgfZtmF+HKeQAj9rymGdxYzww37771+6Wl/qrudrQHieFwRJqPgUandHrLvge7l\nT/Rsw8tx9SsNwjsABfSuQR6tARJKzQFgIncPHBULAoGASza0vzyeQgoJzVDZldn1\nBWTUoUawmkHMS2+9ThOfpAwgqWqvMGTNyi/vvALis+wrOWjIEaa0InLgQFWPOgJO\nnXGlZVlsovQVAqe3BtrdyailDPrgcNRxOurtyXLM6etaVeVwiL7Gcz12Znd8PVsC\nq5Lt/SdeRWtVg0n45ATDwgs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "alex-118@crypto-price-369400.iam.gserviceaccount.com",
+  "client_id": "100873336049845627366",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/alex-118%40crypto-price-369400.iam.gserviceaccount.com"
+}
